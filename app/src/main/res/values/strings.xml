@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CovidIndo</string>
+    <string name="total_positif"> POSITIF</string>
+    <string name="total_sembuh"> SEMBUH</string>
+    <string name="total_meniggal"> MENIGGAL</string>
+    <string name="confirmed">confirmed</string>
+    <string name="provinsi">Provinsi :</string>
+    <string name="indonesia">INDONESIA</string>
+</resources>
